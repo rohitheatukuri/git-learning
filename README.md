@@ -1,2 +1,3 @@
 # git-learning
-trying to learn git from scratch
+trying to learn 
+git and git hub from scratch
